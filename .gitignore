@@ -1,3 +1,6 @@
+#node mpodules
+node_modules
+
 # Logs
 logs
 *.log
